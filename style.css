@@ -1,0 +1,32 @@
+#logo{
+   
+    text-align: center;
+    float: right;
+    
+
+}
+
+footer{
+    max-width: 100%;
+    text-align: center;
+    margin-top: 10px;;
+}
+body
+  {
+      background-image: url(stars.jpg);
+    height: 100%;
+  }
+container{
+    background-image: url(star.jpg);
+}
+    
+
+#{
+
+   
+}
+#navbar
+{
+    margin-bottom: 10px;
+}
+   
