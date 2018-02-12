@@ -21,12 +21,14 @@ container{
 }
     
 
-#{
 
    
-}
-#navbar
-{
+
+#navbar{
     margin-bottom: 10px;
 }
    
+.plink{
+    text-decoration: none;
+    color: none;
+}
